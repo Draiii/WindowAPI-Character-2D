@@ -1,0 +1,97 @@
+﻿  stdafx.cpp
+  gameNode.cpp
+  image.cpp
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\image.cpp(114,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\image.cpp(156,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\image.cpp(204,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\image.cpp(252,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  imageManager.cpp
+  keyManager.cpp
+  mainGame.cpp
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(15,84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(15,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(15,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(15,41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(22,30): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(23,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(26,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(26,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(129,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(129,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(262,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(262,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(358,72): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(358,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(364,40): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(376,85): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(376,73): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(390,72): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(390,60): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(469,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(469,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(473,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(473,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(478,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(478,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(493,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(493,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(516,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(516,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(520,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(520,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(530,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(530,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(534,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(534,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(544,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(544,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(548,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(548,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1806,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1806,88): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1806,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1806,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1825,105): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1825,88): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1825,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1825,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1844,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1844,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1844,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1844,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1863,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1863,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1863,74): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1863,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1882,123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1882,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1882,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1882,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1901,123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1901,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1901,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1901,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1920,123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1920,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1920,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1920,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1939,123): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1939,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1939,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1939,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1983,100): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1983,80): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1983,64): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(1983,48): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2025,150): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2025,133): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2025,92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2025,49): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2050,83): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2050,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2050,54): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\mainGame.cpp(2050,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  randomFunction.cpp
+  winMain.cpp
+  코드를 생성하고 있습니다...
+  GameFramework2D.vcxproj -> C:\works\C\포폴-002\wizard_9_20 (개인포폴)\위자드 오브 레전드\WindowAPI\Debug\GameFramework2D.exe
